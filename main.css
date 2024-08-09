@@ -635,9 +635,8 @@ body {
       /* margin-right: auto;
       margin-left: auto; */
       margin: 0 0 0 0;
-      margin-top: 50px;
       margin-left: 50px;
-
+      margin-top: 25px;
     }
 
     .main_block_2 .text_1 {
@@ -646,7 +645,7 @@ body {
     }
 
     .main_block_2 .text_2 {
-      margin-top: 25px;
+      margin-top: 50px;
       margin-left: 50px;
     }
   }
