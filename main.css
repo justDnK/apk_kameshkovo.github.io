@@ -1525,8 +1525,8 @@ body {
   .main_block_4 .block_2 .main_text {
     margin-top: 50px;
     margin-left: 30px;
-    width: 300px;
-    background-color: rgb(86, 86, 252);
+    width: 250px;
+    /* background-color: rgb(86, 86, 252); */
     height: 70px;
   }
 
@@ -1536,7 +1536,7 @@ body {
   }
 
   .main_block_4 .block_3 {
-    background-color: red;
+    /* background-color: red; */
   }
 
   .main_block_4 .block_3 .main_text {
