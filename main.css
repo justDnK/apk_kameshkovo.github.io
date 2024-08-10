@@ -1446,7 +1446,7 @@ body {
   }
   
   .main_block_4  .block_3 .main_text {
-    width: 280px;
+    width: 300px;
     height: 90px;
     /* background-color: cornflowerblue; */
     margin-left: 50px;
@@ -1526,7 +1526,7 @@ body {
     margin-top: 50px;
     margin-left: 30px;
     width: 300px;
-    /* background-color: rgb(86, 86, 252); */
+    background-color: rgb(86, 86, 252);
     height: 70px;
   }
 
