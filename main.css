@@ -1526,6 +1526,8 @@ body {
     margin-top: 50px;
     margin-left: 30px;
     width: 300px;
+    /* background-color: rgb(86, 86, 252); */
+    height: 70px;
   }
 
   .main_block_4 .block_2 .center_text {
