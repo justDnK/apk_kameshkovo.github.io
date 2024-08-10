@@ -1535,6 +1535,10 @@ body {
     width: 280px;
   }
 
+  .main_block_4 .block_3 {
+    background-color: red;
+  }
+
   .main_block_4 .block_3 .main_text {
     margin-top: 50px;
     margin-left: 30px;
