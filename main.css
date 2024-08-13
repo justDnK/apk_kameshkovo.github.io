@@ -1715,12 +1715,12 @@ body {
 
 @media(max-width: 600px) {
   .main_block_6 {
-    height: 680px;
+    height: 740px;
   }
 
   .main_block_6 .text_1 {
-    width: 400px;
-    height: 250px;
+    width: 340px;
+    height: 280px;
     /* background-color: blue; */
   }
 
@@ -1730,12 +1730,12 @@ body {
   }
 
   .main_block_6 .text_2 {
-    width: 400px;
+    width: 340px;
     margin-top: 40px;
     /* background-color: green; */
     justify-content: flex-start;
     padding-top: 10px;
-    height: 250px;
+    height: 285px;
   }
 
   .main-block_6 .text_2 .mini_text_1 p {
@@ -1749,14 +1749,14 @@ body {
 
 @media(max-width: 500px) {
   .main_block_6 {
-    height: 630px;
+    height: 650px;
   }
 
   .main_block_6 .text_1 {
     margin-left: 30px;
-    width: 370px;
+    width: 330px;
     margin-top: 60px;
-    height: 220px;
+    height: 240px;
   }
 
   .main_block_6 .text_1 p {
@@ -1766,8 +1766,8 @@ body {
 
   .main_block_6 .text_2 {
     margin-left: 30px;
-    width: 370px;
-    height: 210px;
+    width: 330px;
+    height: 220px;
   }
 
   .main_block_6 .text_2 .mini_text_1 {
