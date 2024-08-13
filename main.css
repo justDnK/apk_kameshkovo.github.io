@@ -2207,6 +2207,23 @@ body {
     font-size: 20px;
   }
 }
+
+/* footer start */
+
+.footer {
+  height: 150px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media(max-width: 900px) {
+  .footer .logo {
+    margin: 0 0 0 0;
+  }
+}
  
 /*  */
 
