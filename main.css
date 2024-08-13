@@ -2069,6 +2069,144 @@ body {
     width: 270px;
   }
 }
+
+/* main_block_8 start */
+
+.main_block_8 {
+  height: 620px;
+  width: 100%;
+  background-color: red;
+  border-bottom: 1px solid black; 
+  background-image: url(photos_and_gifs/background_down.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main_block_8 .text_1 {
+  /* background-color: rgb(52, 144, 242); */
+  width: 400px;
+  padding: 0 0 0 0;
+  margin-bottom: 20px;
+}
+
+.main_block_8 .text_1 p {
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  line-height: 35px;
+  font-weight: 500;
+  display: block;
+  margin: 0 0 0 0;
+}
+
+.main_block_8 .text_2 {
+  /* background-color: deeppink; */
+  width: 600px;
+}
+
+.main_block_8 .text_2 p {
+  text-align: center;
+  margin: 0 0 0 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: white;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5)
+}
+
+.main_block_8 .block_link {
+  /* background-color: deeppink; */
+  width: 300px;
+}
+
+.main_block_8 a {
+  text-decoration: none;
+  margin-top: 40px;
+  /* background-color: rgb(51, 0, 255); */
+}
+
+.main_block_8 .block_link p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+
+  text-decoration: underline;
+  text-underline-offset: 5px;
+
+  margin: 0 0 0 0;
+
+}
+
+.main_block_8 .block_link p:hover {
+  color: rgb(78, 75, 235);
+}
+
+@media(max-width: 600px) {
+  .main_block_8 {
+    height: 500px;
+  }
+
+  .main_block_8 .text_1 {
+    width: 280px;
+  }
+
+  .main_block_8 .text_1 p {
+    font-size: 25px;
+  }
+
+  .main_block_8 .text_2 {
+    width: 500px;
+  }
+
+  .main_block_8 .text_2 p {
+    font-size: 0.9rem;
+  }
+
+  .main_block_8 .block_link {
+    height: 30px;
+  }
+
+  .main_block_8 .block_link p {
+    font-size: 20px;
+  }
+}
+
+@media(max-width: 500px) {
+  .main_block_8 .text_2 {
+    width: 350px;
+  }
+
+  .main_block_8 .text_2 p {
+    font-size: 0.8rem;
+  }
+}
+
+@media(max-width: 450px) {
+  .main_block_8 .text_1 {
+    width: 280px;
+  }
+
+  .main_block_8 .text_1 p {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .main_block_8 .text_2 {
+    width: 320px;
+  }
+
+  .main_block_8 .block_link {
+    height: 30px;
+  }
+
+  .main_block_8 .block_link p {
+    font-size: 20px;
+  }
+}
  
 /*  */
 
