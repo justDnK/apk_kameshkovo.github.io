@@ -2178,6 +2178,7 @@ body {
 @media(max-width: 500px) {
   .main_block_8 .text_2 {
     width: 350px;
+    background-color: green;
   }
 
   .main_block_8 .text_2 p {
@@ -2197,6 +2198,7 @@ body {
 
   .main_block_8 .text_2 {
     width: 320px;
+    background-color: blue;
   }
 
   .main_block_8 .block_link {
