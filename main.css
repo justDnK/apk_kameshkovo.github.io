@@ -2075,7 +2075,6 @@ body {
 .main_block_8 {
   height: 620px;
   width: 100%;
-  background-color: red;
   border-bottom: 1px solid black; 
   background-image: url(photos_and_gifs/background_down.jpg);
   background-size: cover;
@@ -2178,7 +2177,6 @@ body {
 @media(max-width: 500px) {
   .main_block_8 .text_2 {
     width: 350px;
-    background-color: green;
   }
 
   .main_block_8 .text_2 p {
@@ -2192,13 +2190,11 @@ body {
   }
 
   .main_block_8 .text_1 p {
-    font-size: 22px;
     line-height: 30px;
   }
 
   .main_block_8 .text_2 {
     width: 320px;
-    background-color: blue;
   }
 
   .main_block_8 .block_link {
