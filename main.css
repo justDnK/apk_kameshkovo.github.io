@@ -1587,7 +1587,7 @@ body {
 }
 
 .main_block_5 a:hover {
-  color: rgb(78, 75, 235);
+  color: orange;
 }
 
 @media(max-width: 650px) {
@@ -1903,7 +1903,7 @@ body {
 }
 
 .main_block_7 a .block_link p:hover {
-  color: rgb(78, 75, 235);
+  color: orange;
 }
 
 @media(max-width: 900px) {
@@ -2141,7 +2141,7 @@ body {
 }
 
 .main_block_8 .block_link p:hover {
-  color: rgb(78, 75, 235);
+  color: orange;
 }
 
 @media(max-width: 600px) {
