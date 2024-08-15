@@ -463,6 +463,11 @@ body {
 }
 
 @media(max-width: 720px) {
+  .main_block {
+    background-image: url(photos_and_gifs/adaptive.jpg);
+    background-size: cover;
+  }
+
   .main_block .block_main_text {
     /* background-color: blue; */
     width: 420px;
