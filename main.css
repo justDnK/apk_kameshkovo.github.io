@@ -530,6 +530,8 @@ body {
   .main_block .block_main_text {
     width: 300px;
     height: 210px;
+    margin-bottom: 30px;
+    background-color: blue;
   }
 
   .main_block .block_main_text p {
