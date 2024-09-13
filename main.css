@@ -502,7 +502,7 @@ body {
   }
 
   .main_block .block_main_text p {
-    font-size: 25px;
+    font-size: 25px !important;
   }
 
   .main_block .mini_text {
